@@ -1,0 +1,480 @@
+[submodule "adlam"]
+	path = adlam
+	url = https://github.com/notofonts/adlam.git
+[submodule "ahom"]
+	path = ahom
+	url = https://github.com/notofonts/ahom.git
+[submodule "anatolian-hieroglyphs"]
+	path = anatolian-hieroglyphs
+	url = https://github.com/notofonts/anatolian-hieroglyphs.git
+[submodule "arabic"]
+	path = arabic
+	url = https://github.com/notofonts/arabic.git
+[submodule "Arimo"]
+	path = Arimo
+	url = https://github.com/notofonts/Arimo.git
+[submodule "armenian"]
+	path = armenian
+	url = https://github.com/notofonts/armenian.git
+[submodule "avestan"]
+	path = avestan
+	url = https://github.com/notofonts/avestan.git
+[submodule "balinese"]
+	path = balinese
+	url = https://github.com/notofonts/balinese.git
+[submodule "bamum"]
+	path = bamum
+	url = https://github.com/notofonts/bamum.git
+[submodule "bassa-vah"]
+	path = bassa-vah
+	url = https://github.com/notofonts/bassa-vah.git
+[submodule "batak"]
+	path = batak
+	url = https://github.com/notofonts/batak.git
+[submodule "bengali"]
+	path = bengali
+	url = https://github.com/notofonts/bengali.git
+[submodule "bhaiksuki"]
+	path = bhaiksuki
+	url = https://github.com/notofonts/bhaiksuki.git
+[submodule "brahmi"]
+	path = brahmi
+	url = https://github.com/notofonts/brahmi.git
+[submodule "buginese"]
+	path = buginese
+	url = https://github.com/notofonts/buginese.git
+[submodule "buhid"]
+	path = buhid
+	url = https://github.com/notofonts/buhid.git
+[submodule "canadian-aboriginal"]
+	path = canadian-aboriginal
+	url = https://github.com/notofonts/canadian-aboriginal.git
+[submodule "carian"]
+	path = carian
+	url = https://github.com/notofonts/carian.git
+[submodule "caucasian-albanian"]
+	path = caucasian-albanian
+	url = https://github.com/notofonts/caucasian-albanian.git
+[submodule "chakma"]
+	path = chakma
+	url = https://github.com/notofonts/chakma.git
+[submodule "cham"]
+	path = cham
+	url = https://github.com/notofonts/cham.git
+[submodule "cherokee"]
+	path = cherokee
+	url = https://github.com/notofonts/cherokee.git
+[submodule "chorasmian"]
+	path = chorasmian
+	url = https://github.com/notofonts/chorasmian.git
+[submodule "coptic"]
+	path = coptic
+	url = https://github.com/notofonts/coptic.git
+[submodule "Cousine"]
+	path = Cousine
+	url = https://github.com/notofonts/Cousine.git
+[submodule "cuneiform"]
+	path = cuneiform
+	url = https://github.com/notofonts/cuneiform.git
+[submodule "cypriot"]
+	path = cypriot
+	url = https://github.com/notofonts/cypriot.git
+[submodule "cypro-minoan"]
+	path = cypro-minoan
+	url = https://github.com/notofonts/cypro-minoan.git
+[submodule "deseret"]
+	path = deseret
+	url = https://github.com/notofonts/deseret.git
+[submodule "devanagari"]
+	path = devanagari
+	url = https://github.com/notofonts/devanagari.git
+[submodule "dives-akuru"]
+	path = dives-akuru
+	url = https://github.com/notofonts/dives-akuru.git
+[submodule "dogra"]
+	path = dogra
+	url = https://github.com/notofonts/dogra.git
+[submodule "duployan"]
+	path = duployan
+	url = https://github.com/notofonts/duployan.git
+[submodule "egyptian-hieroglyphs"]
+	path = egyptian-hieroglyphs
+	url = https://github.com/notofonts/egyptian-hieroglyphs.git
+[submodule "elbasan"]
+	path = elbasan
+	url = https://github.com/notofonts/elbasan.git
+[submodule "elymaic"]
+	path = elymaic
+	url = https://github.com/notofonts/elymaic.git
+[submodule "ethiopic"]
+	path = ethiopic
+	url = https://github.com/notofonts/ethiopic.git
+[submodule "georgian"]
+	path = georgian
+	url = https://github.com/notofonts/georgian.git
+[submodule "glagolitic"]
+	path = glagolitic
+	url = https://github.com/notofonts/glagolitic.git
+[submodule "gothic"]
+	path = gothic
+	url = https://github.com/notofonts/gothic.git
+[submodule "grantha"]
+	path = grantha
+	url = https://github.com/notofonts/grantha.git
+[submodule "gujarati"]
+	path = gujarati
+	url = https://github.com/notofonts/gujarati.git
+[submodule "gunjala-gondi"]
+	path = gunjala-gondi
+	url = https://github.com/notofonts/gunjala-gondi.git
+[submodule "gurmukhi"]
+	path = gurmukhi
+	url = https://github.com/notofonts/gurmukhi.git
+[submodule "hanifi-rohingya"]
+	path = hanifi-rohingya
+	url = https://github.com/notofonts/hanifi-rohingya.git
+[submodule "hanunoo"]
+	path = hanunoo
+	url = https://github.com/notofonts/hanunoo.git
+[submodule "hatran"]
+	path = hatran
+	url = https://github.com/notofonts/hatran.git
+[submodule "hebrew"]
+	path = hebrew
+	url = https://github.com/notofonts/hebrew.git
+[submodule "imperial-aramaic"]
+	path = imperial-aramaic
+	url = https://github.com/notofonts/imperial-aramaic.git
+[submodule "indic-siyaq-numbers"]
+	path = indic-siyaq-numbers
+	url = https://github.com/notofonts/indic-siyaq-numbers.git
+[submodule "inscriptional-pahlavi"]
+	path = inscriptional-pahlavi
+	url = https://github.com/notofonts/inscriptional-pahlavi.git
+[submodule "inscriptional-parthian"]
+	path = inscriptional-parthian
+	url = https://github.com/notofonts/inscriptional-parthian.git
+[submodule "javanese"]
+	path = javanese
+	url = https://github.com/notofonts/javanese.git
+[submodule "kaithi"]
+	path = kaithi
+	url = https://github.com/notofonts/kaithi.git
+[submodule "kannada"]
+	path = kannada
+	url = https://github.com/notofonts/kannada.git
+[submodule "kayah-li"]
+	path = kayah-li
+	url = https://github.com/notofonts/kayah-li.git
+[submodule "kharoshthi"]
+	path = kharoshthi
+	url = https://github.com/notofonts/kharoshthi.git
+[submodule "khitan-small-script"]
+	path = khitan-small-script
+	url = https://github.com/notofonts/khitan-small-script.git
+[submodule "khmer"]
+	path = khmer
+	url = https://github.com/notofonts/khmer.git
+[submodule "khojki"]
+	path = khojki
+	url = https://github.com/notofonts/khojki.git
+[submodule "khudawadi"]
+	path = khudawadi
+	url = https://github.com/notofonts/khudawadi.git
+[submodule "lao"]
+	path = lao
+	url = https://github.com/notofonts/lao.git
+[submodule "latin-greek-cyrillic"]
+	path = latin-greek-cyrillic
+	url = https://github.com/notofonts/latin-greek-cyrillic.git
+[submodule "lepcha"]
+	path = lepcha
+	url = https://github.com/notofonts/lepcha.git
+[submodule "limbu"]
+	path = limbu
+	url = https://github.com/notofonts/limbu.git
+[submodule "linear-a"]
+	path = linear-a
+	url = https://github.com/notofonts/linear-a.git
+[submodule "linear-b"]
+	path = linear-b
+	url = https://github.com/notofonts/linear-b.git
+[submodule "lisu"]
+	path = lisu
+	url = https://github.com/notofonts/lisu.git
+[submodule "lycian"]
+	path = lycian
+	url = https://github.com/notofonts/lycian.git
+[submodule "lydian"]
+	path = lydian
+	url = https://github.com/notofonts/lydian.git
+[submodule "mahajani"]
+	path = mahajani
+	url = https://github.com/notofonts/mahajani.git
+[submodule "makasar"]
+	path = makasar
+	url = https://github.com/notofonts/makasar.git
+[submodule "malayalam"]
+	path = malayalam
+	url = https://github.com/notofonts/malayalam.git
+[submodule "mandaic"]
+	path = mandaic
+	url = https://github.com/notofonts/mandaic.git
+[submodule "manichaean"]
+	path = manichaean
+	url = https://github.com/notofonts/manichaean.git
+[submodule "marchen"]
+	path = marchen
+	url = https://github.com/notofonts/marchen.git
+[submodule "masaram-gondi"]
+	path = masaram-gondi
+	url = https://github.com/notofonts/masaram-gondi.git
+[submodule "math"]
+	path = math
+	url = https://github.com/notofonts/math.git
+[submodule "mayan-numerals"]
+	path = mayan-numerals
+	url = https://github.com/notofonts/mayan-numerals.git
+[submodule "medefaidrin"]
+	path = medefaidrin
+	url = https://github.com/notofonts/medefaidrin.git
+[submodule "meetei-mayek"]
+	path = meetei-mayek
+	url = https://github.com/notofonts/meetei-mayek.git
+[submodule "mende-kikakui"]
+	path = mende-kikakui
+	url = https://github.com/notofonts/mende-kikakui.git
+[submodule "meroitic"]
+	path = meroitic
+	url = https://github.com/notofonts/meroitic.git
+[submodule "miao"]
+	path = miao
+	url = https://github.com/notofonts/miao.git
+[submodule "modi"]
+	path = modi
+	url = https://github.com/notofonts/modi.git
+[submodule "mongolian"]
+	path = mongolian
+	url = https://github.com/notofonts/mongolian.git
+[submodule "mro"]
+	path = mro
+	url = https://github.com/notofonts/mro.git
+[submodule "multani"]
+	path = multani
+	url = https://github.com/notofonts/multani.git
+[submodule "music"]
+	path = music
+	url = https://github.com/notofonts/music.git
+[submodule "myanmar"]
+	path = myanmar
+	url = https://github.com/notofonts/myanmar.git
+[submodule "nabataean"]
+	path = nabataean
+	url = https://github.com/notofonts/nabataean.git
+[submodule "nandinagari"]
+	path = nandinagari
+	url = https://github.com/notofonts/nandinagari.git
+[submodule "nastaliq"]
+	path = nastaliq
+	url = https://github.com/notofonts/nastaliq.git
+[submodule "new-tai-lue"]
+	path = new-tai-lue
+	url = https://github.com/notofonts/new-tai-lue.git
+[submodule "newa"]
+	path = newa
+	url = https://github.com/notofonts/newa.git
+[submodule "nko"]
+	path = nko
+	url = https://github.com/notofonts/nko.git
+[submodule "nushu"]
+	path = nushu
+	url = https://github.com/notofonts/nushu.git
+[submodule "nyiakeng-puachue-hmong"]
+	path = nyiakeng-puachue-hmong
+	url = https://github.com/notofonts/nyiakeng-puachue-hmong.git
+[submodule "ogham"]
+	path = ogham
+	url = https://github.com/notofonts/ogham.git
+[submodule "ol-chiki"]
+	path = ol-chiki
+	url = https://github.com/notofonts/ol-chiki.git
+[submodule "old-hungarian"]
+	path = old-hungarian
+	url = https://github.com/notofonts/old-hungarian.git
+[submodule "old-hungarian-ui"]
+	path = old-hungarian-ui
+	url = https://github.com/notofonts/old-hungarian-ui.git
+[submodule "old-italic"]
+	path = old-italic
+	url = https://github.com/notofonts/old-italic.git
+[submodule "old-north-arabian"]
+	path = old-north-arabian
+	url = https://github.com/notofonts/old-north-arabian.git
+[submodule "old-permic"]
+	path = old-permic
+	url = https://github.com/notofonts/old-permic.git
+[submodule "old-persian"]
+	path = old-persian
+	url = https://github.com/notofonts/old-persian.git
+[submodule "old-sogdian"]
+	path = old-sogdian
+	url = https://github.com/notofonts/old-sogdian.git
+[submodule "old-south-arabian"]
+	path = old-south-arabian
+	url = https://github.com/notofonts/old-south-arabian.git
+[submodule "old-turkic"]
+	path = old-turkic
+	url = https://github.com/notofonts/old-turkic.git
+[submodule "old-uyghur"]
+	path = old-uyghur
+	url = https://github.com/notofonts/old-uyghur.git
+[submodule "oriya"]
+	path = oriya
+	url = https://github.com/notofonts/oriya.git
+[submodule "osage"]
+	path = osage
+	url = https://github.com/notofonts/osage.git
+[submodule "osmanya"]
+	path = osmanya
+	url = https://github.com/notofonts/osmanya.git
+[submodule "pahawh-hmong"]
+	path = pahawh-hmong
+	url = https://github.com/notofonts/pahawh-hmong.git
+[submodule "palmyrene"]
+	path = palmyrene
+	url = https://github.com/notofonts/palmyrene.git
+[submodule "pau-cin-hau"]
+	path = pau-cin-hau
+	url = https://github.com/notofonts/pau-cin-hau.git
+[submodule "phags-pa"]
+	path = phags-pa
+	url = https://github.com/notofonts/phags-pa.git
+[submodule "phoenician"]
+	path = phoenician
+	url = https://github.com/notofonts/phoenician.git
+[submodule "psalter-pahlavi"]
+	path = psalter-pahlavi
+	url = https://github.com/notofonts/psalter-pahlavi.git
+[submodule "rejang"]
+	path = rejang
+	url = https://github.com/notofonts/rejang.git
+[submodule "runic"]
+	path = runic
+	url = https://github.com/notofonts/runic.git
+[submodule "samaritan"]
+	path = samaritan
+	url = https://github.com/notofonts/samaritan.git
+[submodule "saurashtra"]
+	path = saurashtra
+	url = https://github.com/notofonts/saurashtra.git
+[submodule "sharada"]
+	path = sharada
+	url = https://github.com/notofonts/sharada.git
+[submodule "shavian"]
+	path = shavian
+	url = https://github.com/notofonts/shavian.git
+[submodule "siddham"]
+	path = siddham
+	url = https://github.com/notofonts/siddham.git
+[submodule "sign-writing"]
+	path = sign-writing
+	url = https://github.com/notofonts/sign-writing.git
+[submodule "sinhala"]
+	path = sinhala
+	url = https://github.com/notofonts/sinhala.git
+[submodule "sogdian"]
+	path = sogdian
+	url = https://github.com/notofonts/sogdian.git
+[submodule "sora-sompeng"]
+	path = sora-sompeng
+	url = https://github.com/notofonts/sora-sompeng.git
+[submodule "soyombo"]
+	path = soyombo
+	url = https://github.com/notofonts/soyombo.git
+[submodule "sundanese"]
+	path = sundanese
+	url = https://github.com/notofonts/sundanese.git
+[submodule "syloti-nagri"]
+	path = syloti-nagri
+	url = https://github.com/notofonts/syloti-nagri.git
+[submodule "symbols"]
+	path = symbols
+	url = https://github.com/notofonts/symbols.git
+[submodule "syriac"]
+	path = syriac
+	url = https://github.com/notofonts/syriac.git
+[submodule "tagalog"]
+	path = tagalog
+	url = https://github.com/notofonts/tagalog.git
+[submodule "tagbanwa"]
+	path = tagbanwa
+	url = https://github.com/notofonts/tagbanwa.git
+[submodule "tai-le"]
+	path = tai-le
+	url = https://github.com/notofonts/tai-le.git
+[submodule "tai-tham"]
+	path = tai-tham
+	url = https://github.com/notofonts/tai-tham.git
+[submodule "tai-viet"]
+	path = tai-viet
+	url = https://github.com/notofonts/tai-viet.git
+[submodule "takri"]
+	path = takri
+	url = https://github.com/notofonts/takri.git
+[submodule "tamil"]
+	path = tamil
+	url = https://github.com/notofonts/tamil.git
+[submodule "tangsa"]
+	path = tangsa
+	url = https://github.com/notofonts/tangsa.git
+[submodule "tangut"]
+	path = tangut
+	url = https://github.com/notofonts/tangut.git
+[submodule "telugu"]
+	path = telugu
+	url = https://github.com/notofonts/telugu.git
+[submodule "thaana"]
+	path = thaana
+	url = https://github.com/notofonts/thaana.git
+[submodule "thai"]
+	path = thai
+	url = https://github.com/notofonts/thai.git
+[submodule "tibetan"]
+	path = tibetan
+	url = https://github.com/notofonts/tibetan.git
+[submodule "tifinagh"]
+	path = tifinagh
+	url = https://github.com/notofonts/tifinagh.git
+[submodule "Tinos"]
+	path = Tinos
+	url = https://github.com/notofonts/Tinos.git
+[submodule "tirhuta"]
+	path = tirhuta
+	url = https://github.com/notofonts/tirhuta.git
+[submodule "toto"]
+	path = toto
+	url = https://github.com/notofonts/toto.git
+[submodule "ugaritic"]
+	path = ugaritic
+	url = https://github.com/notofonts/ugaritic.git
+[submodule "vai"]
+	path = vai
+	url = https://github.com/notofonts/vai.git
+[submodule "vithkuqi"]
+	path = vithkuqi
+	url = https://github.com/notofonts/vithkuqi.git
+[submodule "wancho"]
+	path = wancho
+	url = https://github.com/notofonts/wancho.git
+[submodule "warang-citi"]
+	path = warang-citi
+	url = https://github.com/notofonts/warang-citi.git
+[submodule "yezidi"]
+	path = yezidi
+	url = https://github.com/notofonts/yezidi.git
+[submodule "yi"]
+	path = yi
+	url = https://github.com/notofonts/yi.git
+[submodule "zanabazar-square"]
+	path = zanabazar-square
+	url = https://github.com/notofonts/zanabazar-square.git
