@@ -478,3 +478,6 @@
 [submodule "zanabazar-square"]
 	path = zanabazar-square
 	url = https://github.com/notofonts/zanabazar-square.git
+[submodule "test"]
+	path = test
+	url = https://github.com/notofonts/test.git
